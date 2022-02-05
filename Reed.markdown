@@ -9,12 +9,13 @@ permalink: /Reed/
     <img src="/assets/img/Reed/Tamu.png" alt="Gig'em!" style="width:50%;">
 <center>		
 
-***  
-## CLASS OF 2023  	
+*** 
+</center> 
+
+## CLASS OF 2023  
 </center>
 
-
-
+</center>
 <img src="/assets/img/Reed/Photo of me.jpg" style="width:50%;">
 
 </center>
