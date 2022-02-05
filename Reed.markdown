@@ -7,18 +7,15 @@ permalink: /Reed/
 ***  
 <center>
     <img src="/assets/img/Reed/Tamu.png" alt="Gig'em!" style="width:50%;">
-<center>		
+	
 
 *** 
-</center> 
-
 ## CLASS OF 2023  
-</center>
 
 </center>
 <img src="/assets/img/Reed/Photo of me.jpg" style="width:50%;">
 
-</center>
+
 ***  
 ## Facts about Me 
 - I am from Kansas orginally. Lived in George, Texas since 2010
