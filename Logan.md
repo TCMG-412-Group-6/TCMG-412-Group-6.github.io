@@ -5,9 +5,9 @@ permalink: /Logan/
 ---
 
 ***
-<left>
+<center>
     <img src="/assets/img/Logan/logan headshot copy.jpg" alt="me" style="width:30%;">
-</left>
+</center>
 ***
 
 ## ABOUT ME
@@ -39,7 +39,7 @@ I joined the Army when I was 18 and retired in 2019. As a Combat Engineer I lear
 ***
 <center>
     <img src="/assets/img/Logan/2007 Beast 12 copy.jpg" alt="my Squad 2007" style="width:30%;">
-    <img src="/assets/img/Logan/riding through the desert2 copy.jpg" alt="Bradley" style="width:30%;">
+    <img src="/assets/img/Logan/riding through the desert2 copy.JPG" alt="Bradley" style="width:30%;">
     <img src="/assets/img/Logan/teaching minesweeper copy.jpg" alt="mines" style="width:30%;">
 </center>
 ***
@@ -47,9 +47,9 @@ I joined the Army when I was 18 and retired in 2019. As a Combat Engineer I lear
 ### What did I do in the Army?
 And if your curious what I did on my deployments, this video kinda sums it up with the commentary from the pilots at the beginning. And for the most accurate description check out this video [The Fat Electrician Reviews: Combat Engineers][The-Fat-Electrician-Reviews:-Combat-Engineers]
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=j16DqQ3PX1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j16DqQ3PX1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DhDhwUdO40M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DhDhwUdO40M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In 2015 my best friend convinced me to go with him on a trip to Las Vegas to hang out. I had no idea what I was getting myself into. Little did I know that I was on my was to attending Defcon 23, the annual hacking conference held in Las Vegas every year. This would prove to be my introduction to a whole new world and set me on a course that has led me to Texas A&M pursuing this degree with aspirations of a career with in the cyber security industry.
 <right>
