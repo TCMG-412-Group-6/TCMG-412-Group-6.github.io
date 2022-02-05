@@ -18,7 +18,7 @@ permalink: /Reed/
 <img src="/assets/img/Reed/Photo of me.jpg" style="width:50%;">
 
 </center>
-	***  
+***  
 ## Facts about Me 
 - I am from Kansas orginally. Lived in George, Texas since 2010
 - For work I manage a Boxing Club and do personal training.
@@ -49,9 +49,10 @@ He is a long-haired Dachshund. He will be getting a lady soon! He loves to play 
 
 ***
 
-#My Favorite quote:  
+## My Favorite quote:  
 > “Balance is the key to everythong. What we do, think, say, eat, feel, they all require awareness, and through this awareness we can grow.”
  \- Koi Fresco
+
 ***
 
 
