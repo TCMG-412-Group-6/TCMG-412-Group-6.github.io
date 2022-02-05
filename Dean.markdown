@@ -3,7 +3,7 @@ layout: page
 title: Dean
 permalink: /Dean/
 ---
-
+I figured I'd utilize my content page as a way for my team and class to get to know me better.  
 ***  
 <center>
     <img src="/assets/img/Dean/Tamu.png" alt="Gig'em!" style="width:30%;">
@@ -12,7 +12,7 @@ permalink: /Dean/
 </center>
 ***  
 ## About Me  
-I figured I'd utilize my content page as a way for my team and class to get to know me better.  
+
 **Howdy!** Here are some things about me:  
 - I'm Andrew James Dean, but everyone except my mother knows me as Dean.  
 - I'm 30 years old  
@@ -37,13 +37,13 @@ My Favorite quote:
 
 ***  
 <center>
-    <img src="/assets/img/Dean/TVServer.JPG" alt="The Server room responsible for all local broadcasts!" style="width:33%;">
-		<img src="/assets/img/Dean/Shoot.JPG" alt="Sasebo orphanage news story shoot" style="width:33%;">
-		<img src="/assets/img/Dean/Radio.JPG" alt="Radio Studio - shh! We're live." style="width:33%;">
+    <img src="/assets/img/Dean/TVServer.JPG" alt="The Server room responsible for all local broadcasts!" style="width:30%;">
+		<img src="/assets/img/Dean/Shoot.JPG" alt="Sasebo orphanage news story shoot" style="width:30%;">
+		<img src="/assets/img/Dean/Radio.JPG" alt="Radio Studio - shh! We're live." style="width:30%;">
 </center>
 ***  
-
-
+<br>
+<br>
 Check out a couple of the things I created when I was stationed in Japan:  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y1O7XXm_nYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
