@@ -17,7 +17,7 @@ permalink: /Reed/
 
 
 ***  
-## Facts about Me 
+## <font color="blue">Facts about Me </font>
 - I am from Kansas orginally. Lived in George, Texas since 2010
 - For work I manage a Boxing Club and do personal training.
 - I really like dogs
