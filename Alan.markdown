@@ -13,16 +13,16 @@ permalink: /Alan/
 </center>
 ***
 ## Who Am I?
-My name is **Alan Perez Licona**. I am in my junior year at Texas A&M. 
-I have never made a web page before hopfully this comes out ok.
+My name is **Alan Perez Licona**. I am a junior year at Texas A&M. This is my first time creating a web page,
+hopefully it does not turn out bad.
 ### Here are a few intresting things about myself: 
 + I am 21 years old
 + I am from Austin, Texas
-+ I have lived sometime in Mexico, Mexico City and Veracruz to be exact
-+ Recently started investing in stocks, not going good at the moment
-+ I call what is know as soccer **football**
-+ I am sports enthusiast, I enjoy watching sports from F1 to Boxing, if I understand it I'll watch it
-+ Speaking of sports I also practiced a few: **Soccer (my main)**, basketball, cross country, and football 
++ Have lived for sometime in Mexico, Mexico City and Veracruz to be exact
++ Recently started investing in stocks, not doing good at the moment
++ I call what is know as soccer, **football**
++ I am sports enthusiast, I enjoy watching sports from F1 to Boxing. If I understand it, I'll watch it
++ Speaking of sports, I also practiced a few: **Soccer (my main)**, basketball, cross country, and football 
 + My favorite sports team is *Cruz Azul*
 + Worked in plumbing with my uncle
 
@@ -32,9 +32,9 @@ I have never made a web page before hopfully this comes out ok.
 		<img src="/assets/img/Alan/caz.png" alt="Favorite team" style="width:30%;">
 </center>
 ***
-## Here is something I want to try out, to see if it works
+## Here is something I want to try out
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dIm9mPPb_SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=dIm9mPPb_SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If it worked, it is one of my best goals I scored in High School
 It has been a long time since then
