@@ -12,7 +12,7 @@ permalink: /Reed/
 
 
 *** 
-## CLASS OF 2023  
+## <p style="text-align:center">Class of 2023</p>
 
 
 <center>
