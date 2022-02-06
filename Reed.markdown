@@ -53,9 +53,9 @@ Certifications in all the fun things..
 He is a long-haired Dachshund. He will be getting a lady soon! He loves to play fetch. Don't throw the ball if you don't want to play. My girlfriend and I go on bike rides where he runs next to us. He will run 5 miles and still have energy for fetch. We ride through campus maybe you will see us one time. 
 
 ***
-## <font color="blue">My favorite quote: </font>
+## <font color="blue"> A quote I like to live by: </font>
 
-> “Balance is the key to everythong. What we do, think, say, eat, feel, they all require awareness, and through this awareness we can grow.”
+> “Balance is the key to everything. What we do, think, say, eat, feel, they all require awareness, and through this awareness we can grow.”
  \- Koi Fresco
 
 ***
