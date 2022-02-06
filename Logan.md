@@ -37,20 +37,27 @@ My name is Logan, I am a Junior majoring in Technology Management here at Texas 
 I joined the Army when I was 18 and retired in 2019. As a Combat Engineer I learned to build simple structures, erect bridges and demolitions. In addition to that I also was trained in the use of demolitions to clear minefields, breach obstacles and permanently remove anything we wanted gone.
 
 ***
+
 <center>
     <img src="/assets/img/Logan/2007 Beast 12 copy.jpg" alt="my Squad 2007" style="width:30%;">
     <img src="/assets/img/Logan/riding through the desert2 copy.JPG" alt="Bradley" style="width:30%;">
     <img src="/assets/img/Logan/teaching minesweeper copy.jpg" alt="mines" style="width:30%;">
 </center>
+
 ***
 
 ### What did I do in the Army?
-And if your curious what I did on my deployments, this video kinda sums it up with the commentary from the pilots at the beginning. And for the most accurate description check out this video [The Fat Electrician Reviews: Combat Engineers][The-Fat-Electrician-Reviews:-Combat-Engineers]
+If you want to know more about what a Combat Engineer does on a deployment to Iraq or Afghanistan, check out the below videos. The one with the commentary from the pilots at the beginning is a good way to put it. And for the most accurate description (language warning) check out this video [The Fat Electrician Reviews: Combat Engineers][The-Fat-Electrician-Reviews:-Combat-Engineers]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j16DqQ3PX1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/j16DqQ3PX1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DhDhwUdO40M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DhDhwUdO40M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
+***
+
+## How did I get into this field?
 
 In 2015 my best friend convinced me to go with him on a trip to Las Vegas to hang out. I had no idea what I was getting myself into. Little did I know that I was on my was to attending Defcon 23, the annual hacking conference held in Las Vegas every year. This would prove to be my introduction to a whole new world and set me on a course that has led me to Texas A&M pursuing this degree with aspirations of a career with in the cyber security industry.
 <right>
@@ -77,6 +84,7 @@ From that point till now I have not missed a Defcon conference and have attended
 <left>
     <img src="/assets/img/Logan/badges copy.jpg" alt="Badges" style="width:40%;">
 </left>
+
 
 ***
 ## Thanks For Stoping By!
