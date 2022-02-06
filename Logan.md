@@ -51,6 +51,8 @@ And if your curious what I did on my deployments, this video kinda sums it up wi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DhDhwUdO40M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DhDhwUdO40M?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In 2015 my best friend convinced me to go with him on a trip to Las Vegas to hang out. I had no idea what I was getting myself into. Little did I know that I was on my was to attending Defcon 23, the annual hacking conference held in Las Vegas every year. This would prove to be my introduction to a whole new world and set me on a course that has led me to Texas A&M pursuing this degree with aspirations of a career with in the cyber security industry.
 <right>
     <img src="/assets/img/Logan/defcon copy.jpeg" alt="Defcon Jack" style="width:30%;">
@@ -76,6 +78,11 @@ From that point till now I have not missed a Defcon conference and have attended
 <left>
     <img src="/assets/img/Logan/badges copy.jpg" alt="Badges" style="width:40%;">
 </left>
+
+***
+## Thanks For Stoping By!
+***
+
 
 
 
