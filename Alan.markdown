@@ -34,7 +34,7 @@ hopefully it does not turn out bad.
 ***
 ## Here is something I want to try out
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=dIm9mPPb_SM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=NVaDLj3sT7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If it worked, it is one of my best goals I scored in High School
 It has been a long time since then
