@@ -10,10 +10,10 @@ permalink: /Reed/
 	
 </center>
 
-<center>
+
 *** 
 ## CLASS OF 2023  
-</center>
+
 
 <center>
 <img src="/assets/img/Reed/Photo of me.jpg" style="width:50%;">
@@ -31,9 +31,9 @@ permalink: /Reed/
 <img src="/assets/img/Reed/Slalom.PNG" style="width:50%;">
 
 ***
-<center>
-	## <font color="blue">Long Term Goals </font>
-</center>
+
+## <font color="blue">Facts about Me </font>
+
 
 Having a homestead is my long-term goal. I would like to practice rotational grazing and have many different animals. Ideally, I would raise all of my own food.
 
@@ -44,12 +44,12 @@ Certifications in all the fun things..
 
 
 ***
-<center>
 
 ## <font color="blue">This is Gus </font>
 
+
 <img src="/assets/img/Reed/Gus.JPG" alt="Gus the Dog" style="width:50%;">
-</center>
+
 He is a long-haired Dachshund. He will be getting a lady soon! He loves to play fetch. Don't throw the ball if you don't want to play. My girlfriend and I go on bike rides where he runs next to us. He will run 5 miles and still have energy for fetch. We ride through campus maybe you will see us one time. 
 
 ***
