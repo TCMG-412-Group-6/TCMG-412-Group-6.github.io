@@ -77,6 +77,11 @@ From that point till now I have not missed a Defcon conference and have attended
     <img src="/assets/img/Logan/badges copy.jpg" alt="Badges" style="width:40%;">
 </left>
 
+***
+## Thanks For Stoping By!
+***
+
+
 
 
 
