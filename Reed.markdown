@@ -32,6 +32,8 @@ permalink: /Reed/
 
 ***
 
+<p style="text-align:center">Facts about Me </p>
+
 ## <font color="blue">Facts about Me </font>
 
 
