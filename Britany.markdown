@@ -37,12 +37,14 @@ A cool thing about my town, is most people from my high school have chosen A&M f
 
 ***
 
+### **Here are some current hobbies i have!**
 <center>
-Here are some current hobbies i have!
 <li> Block Printing </li>
 <li> Procreate Art </li>
 <li>And lastly, Creating paper from recycled paper!</li>
 <br>
+</center>
+<center>
 Here's an image of a recent art i did!
 </center>
 <center>
@@ -53,7 +55,6 @@ Here's an image of a recent art i did!
 
 ### Thanks for getting to know me!
 
-<p>
 <center>
 
 *bonus image of my chihuahua, her name is mya, as well as my favorite quote!*
@@ -65,8 +66,6 @@ Here's an image of a recent art i did!
 >"People say nothing is impossible, but i do nothing everyday"
   \- A.A. Milne, Winnie-the-Pooh
 
-</p>
 </center>
-
 
 ***
