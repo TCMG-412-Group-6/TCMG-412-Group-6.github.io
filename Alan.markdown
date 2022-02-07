@@ -9,7 +9,7 @@ permalink: /Alan/
     <img src="/assets/img/Alan/tamu.png" alt="A&M" style="width:20%;">
 </center>
 <center>
-    <img src="/assests/img/Alan/me_pic.JPG" alt="Me" style="width:40%;">
+    <img src="/assets/img/Alan/me_pic.JPG" alt="Me" style="width:40%;">
 </center>
 ***
 ## Who Am I?
@@ -34,7 +34,7 @@ hopefully it does not turn out bad.
 ***
 ## Here is something I want to try out
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=NVaDLj3sT7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NVaDLj3sT7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If it worked, it is one of my best goals I scored in High School
 It has been a long time since then
