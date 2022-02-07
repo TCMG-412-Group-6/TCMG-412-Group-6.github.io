@@ -54,16 +54,18 @@ Here's an image of a recent art i did!
 ***
 
 <center>
+<p>
 bonus image of my chihuahua, her name is mya, as well as my favorite quote!
-
+</p>
+</center>
+<center>
 <br>
 <img src="/assets/img/Britany/mya.jpg" width="50%">
 <br>
-
->"People say nothing is impossible, but i do nothing everyday"
-  \- A.A. Milne, Winnie-the-Pooh
-
 </center>
+
+>"People say nothing is impossible, but I do nothing everyday"
+  \- A.A. Milne, Winnie-the-Pooh
 
 ***
 
