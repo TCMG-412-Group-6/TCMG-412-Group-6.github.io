@@ -24,7 +24,6 @@ My name is **Cristian Loredo Charqueno**. I am currently a junior at Texas A&M U
 
 <center>
     <img src="/assets/img/Cristian/me.jpg" alt="playing futbol" style="width:30%;">
-		<img src="/assets/img/Cristian/sys.jpeg" alt="Major" style="width:30%;">
 	
 </center>
 ***
