@@ -53,11 +53,8 @@ Here's an image of a recent art i did!
 
 ***
 
-### Thanks for getting to know me!
-
 <center>
-
-*bonus image of my chihuahua, her name is mya, as well as my favorite quote!*
+bonus image of my chihuahua, her name is mya, as well as my favorite quote!
 
 <br>
 <img src="/assets/img/Britany/mya.jpg" width="50%">
@@ -69,3 +66,5 @@ Here's an image of a recent art i did!
 </center>
 
 ***
+
+### Thanks for getting to know me!
