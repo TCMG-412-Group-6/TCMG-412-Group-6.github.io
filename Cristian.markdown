@@ -9,7 +9,7 @@ permalink: /Cristian/
     <img src="/assets/img/Cristian/techmanage.png" alt="A&M" style="width:20%;">
 </center>
 <center>
-    <img src="/assests/img/Cristian/metwo.jpg" alt="Me" style="width:40%;">
+    <img src="/assets/img/Cristian/metwo.jpg" alt="Me" style="width:40%;">
 </center>
 ***
 ## A little bit of myself!
