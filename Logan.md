@@ -63,7 +63,7 @@ In 2015 my best friend convinced me to go with him on a trip to Las Vegas to han
 <right>
     <img src="/assets/img/Logan/defcon copy.jpeg" alt="Defcon Jack" style="width:30%;">
 </right>
-From that point till now I have not missed a Defcon conference and have attended many more. Some include:
+From that point till now I have not missed a Defcon conference and have attended many more. Below is a list of some events I have attended and a picture of my badge wall.
 - Defcon 23
 - Defcon 24
 - Defcon 25
